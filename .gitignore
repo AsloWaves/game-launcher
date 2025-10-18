@@ -1,0 +1,8 @@
+# Ignore everything
+*
+*/
+
+# Except these files
+!.gitignore
+!README.md
+!GameLauncher.zip
